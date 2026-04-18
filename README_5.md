@@ -20,7 +20,7 @@
 ---
 
 **Author:** Aman Aaryan &nbsp;
-**Institution:** KIIT University, Department of Information Technology &nbsp;|&nbsp; **Date:** March 2026
+**Institution:** KIIT University, Department of Computer Science (Information Technology) &nbsp;|&nbsp; **Date:** March 2026
 
 </div>
 
